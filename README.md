@@ -12,7 +12,7 @@ correct word within 6 attempts.
 2. Open a terminal in the project folder
 3. Run:
 
-   python mycode.py
+   python CodeAlpha_Hungman.py
 
 ## How to Play
 
